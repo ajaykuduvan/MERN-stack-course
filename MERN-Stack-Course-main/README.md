@@ -1,2 +1,2 @@
-﻿# MERN Stack Complete Course 👇
+﻿# MERN Stack Complete Course 
 
